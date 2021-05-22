@@ -1,0 +1,263 @@
+/* //APP.CSS */
+
+.displayQuery {
+  position: relative;
+
+  text-align: center;
+  height: 693px;
+  width: 1517px;
+  overflow: auto;
+  /* border-radius: 55px; */
+  background-color: #fddbaf;
+}
+.passwordcheck {
+  text-align: left;
+  margin-left: 157px;
+  margin-top: 10px;
+  color: red;
+}
+.backwhite {
+  height: 500px;
+  width: 1155px;
+  border-radius: 39px;
+  background-color: white;
+  margin-left: 90px;
+  margin-top: 20px;
+}
+.labelQuery {
+  text-align: center;
+  font-size: large;
+  margin-bottom: 2px;
+  height: 21px;
+  width: 118px;
+
+  border-radius: 20px;
+  margin-left: 140px;
+  margin-top: 36px;
+
+  color: #33217c;
+  background-color: white;
+}
+
+.button1 {
+  padding: 11px 17px;
+  font-size: 13px;
+  text-align: center;
+  outline: none;
+  color: #fff;
+  background-color: #332a7c;
+  border: none;
+  margin-left: 945px;
+  border-radius: 15px;
+}
+.logout {
+  padding: 11px 17px;
+  font-size: 13px;
+  text-align: center;
+  outline: none;
+  color: #fff;
+  background-color: #332a7c;
+  border: none;
+  border-radius: 15px;
+}
+.setting {
+  padding: 12px 62px;
+  font-size: 13px;
+  text-align: left;
+  outline: none;
+  color: #fff;
+  background-color: #332a7c;
+  border: none;
+  margin-left: 380px;
+  border-radius: 20px;
+  margin-top: 0px;
+}
+.employee {
+  padding: 12px 50px;
+  font-size: 13px;
+  text-align: left;
+  outline: none;
+  color: #fff;
+  background-color: #332a7c;
+  border: none;
+  margin-left: 180px;
+  border-radius: 20px;
+}
+.EmployeeName {
+  text-align: left;
+  margin-left: 185px;
+  color: blue;
+  font-size: 20px;
+}
+.Detail {
+  height: 200px;
+  width: 500px;
+  margin-left: 650px;
+  background-color: #33217c;
+  margin-top: -650px;
+  text-align: left;
+  font-size: 20px;
+  color: white;
+}
+.firstname {
+  font-size: 30px;
+  color: #33217c;
+  align-items: left;
+}
+.lastname {
+  font-size: 30px;
+  color: #33217c;
+  align-items: left;
+}
+.Setting {
+  align-items: left;
+  margin-left: -235px;
+}
+.List {
+  text-align: left;
+  margin-left: 185px;
+  color: #33217c;
+  font-size: 20px;
+}
+.Dashboard {
+  text-align: left;
+  /* margin-left: -680px;
+    margin-top: 22px; */
+}
+
+.mainBack1 {
+  overflow: auto;
+  height: 674px;
+  width: 1300px;
+  border-radius: 39px;
+  background-color: white;
+  margin-left: 104px;
+  margin-top: 10px;
+}
+
+.heading {
+  display: flexbox;
+  font-family: -webkit-body;
+  height: 54px;
+  font-size: 25px;
+  width: 1049px;
+  border-radius: 20px;
+  text-align: left;
+  padding-top: 29px;
+  padding-left: 52px;
+  margin-left: 156px;
+  margin-top: -646px;
+  color: white;
+  background-color: #332a7c;
+  /* background-color: lightsteelblue; */
+}
+.headingName {
+  margin-top: -62px;
+  margin-left: 952px;
+}
+
+.sideButtonName {
+  height: 1px;
+  width: -1px;
+  margin-top: 1px;
+  /* background-color: #ffa000; */
+  border: none;
+  color: #f5f4f3;
+}
+
+.button {
+  text-align: left;
+  margin-left: -680px;
+  margin-top: 22px;
+}
+.SideButton {
+  border: none;
+  border: white;
+  color: #332a7c;
+  width: 77px;
+  margin-right: -22px;
+  padding: 21px 17px;
+  font-size: 24px;
+  text-align: left;
+  cursor: pointer;
+  margin-top: 220px;
+  background-color: white;
+  border-radius: 30px 30px 30px 30px;
+}
+.mainBack2 {
+  height: 651px;
+  width: 100px;
+  border-radius: 33px;
+  margin-top: 12px !important;
+  text-align: center;
+  margin-left: 15px;
+  color: rgb(70, 51, 51);
+  background-color: #332a7c;
+}
+.body {
+  background-color: cornflowerblue;
+}
+
+.textarea {
+  margin-left: -816px;
+  width: 170px;
+  border-radius: 16px;
+  background-color: #f6f6fc !important;
+  border: none;
+  height: 59px;
+}
+
+.btnLogin {
+  width: 39px;
+  margin-right: -5px;
+
+  font-size: 24px;
+  text-align: left;
+
+  margin-top: 219px;
+}
+
+.LoginWhite {
+  width: 39px;
+  margin-right: -5px;
+  font-size: 24px;
+  text-align: left;
+  margin-top: 219px;
+}
+
+.btnDetails {
+  width: 39px;
+  text-align: left;
+  margin-right: -5px;
+  font-size: 22px;
+  cursor: pointer;
+}
+.DetailsWhite {
+  border: none;
+  border: white;
+  color: #332a7c;
+  width: 101px;
+  margin-right: -49px;
+  padding: 16px 17px;
+  font-size: 24px;
+  text-align: left;
+  cursor: pointer;
+  margin-top: -2px;
+  background-color: white;
+  border-radius: 30px 30px 30px 30px;
+}
+
+.LoginWhite {
+  border: none;
+  border: white;
+  color: #332a7c;
+  width: 101px;
+  margin-right: -49px;
+  padding: 16px 17px;
+  font-size: 24px;
+  text-align: left;
+  cursor: pointer;
+  margin-top: 220px;
+  background-color: white;
+  border-radius: 30px 30px 30px 30px;
+}
